@@ -1,2 +1,1 @@
-# C-Projects-2024
-Here are all the unofficial C projects I worked on in 2024
+This is a Sudoku Solver I am making in order to start learning how to make projects.
